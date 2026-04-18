@@ -7,7 +7,7 @@
 <br/>
 <br/>
 ### 시험 결과
-![ADsP 시험결과](https://i.imgur.com/YAWO7hh.png)
+![ADsP 시험결과](https://i.imgur.com/r6Ol1wQ.png)
 
 ### 참고 자료
 - `[2025 ADsP 데이터 분석 준전문가]`, 윤종식, 데이터에듀, 2025
